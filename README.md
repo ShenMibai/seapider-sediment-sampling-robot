@@ -6,8 +6,8 @@ Seapider is a marine robotics course project designed to collect nearshore sedim
 
 | Folder | Contents |
 | --- | --- |
-| [All](All/) | Complete robot assembly and its referenced CAD files. Start here to open the whole robot. |
-| [Body](Body/) | Body and sampling components, including the frame, buoyancy plate, and grab hardware. Camera and leg files are grouped separately from this collection. |
+| [All](All/) | Complete robot assembly and its referenced CAD files, kept together for opening the full model. |
+| [Body](Body/) | Body and sampling components, including the frame, recessed buoyancy plate, central lifting eye, lifting rope protection, and communications tether hardware. |
 | [camera](camera/) | Camera housing and dome, stereo gimbal, and related CAD parts. |
 | [Grab](Grab/) | Standalone sampling grab models and their referenced parts. Use the current revision in [Grab/DualBrace](Grab/DualBrace/). |
 
