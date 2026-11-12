@@ -15,7 +15,7 @@ Seapider is a marine robotics course project designed to collect nearshore sedim
 
 Use **SOLIDWORKS 2023** and keep the referenced parts and subassemblies with their assembly files.
 
-1. [Complete robot assembly](All/new_Seapider_Lifting_Concept.SLDASM)
+1. [Complete robot assembly](All/new_Portable/new_Seapider_Portable.SLDASM)
 2. [Stereo camera gimbal](camera/Seapider_Stereo_Gimbal.SLDASM)
 3. [Current standalone grab assembly](Grab/DualBrace/Jaw_RaisedLiftEnds_DualBrace.SLDASM)
 
